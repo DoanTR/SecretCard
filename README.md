@@ -1,3 +1,9 @@
+-------------------------------------------------
+Thank you Nagisa Day!
+Mình đã copy giao diện 52 lá bài tại đây:
+https://github.com/nuggit/52-cards
+, để xây dựng game mini của mình.
+--------------------------------------------------
 # SecretCard
 Mô phỏng trò ảo thuật đoán lá bài bí mật:
 Lấy ngẫu nhiên 21 lá bài từ bộ bài Tây 52 lá. Sau đó người chơi sẽ chọn 1 lá ngẫu nhiên ( đây là LÁ BÀI BÍ MẬT, chỉ có người chơi biết và họ sẽ ghi nhớ nó trong đầu).
